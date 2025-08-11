@@ -1,5 +1,6 @@
 ### Hi, I’m Muhamad Alwan 👋
 
+---
 
 ![Muhamad Alwan](/banner-github.png)
 
@@ -41,7 +42,7 @@ With a strong focus on clean code, performance, and design, I enjoy turning idea
 
 ---
 
-## 📫 Social Media
+### 📫 Let's Connect
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@alwan.balweel)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/alwan.balweel)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/c7h31q)
