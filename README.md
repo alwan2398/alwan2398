@@ -1,5 +1,8 @@
 ### Hi, I’m Muhamad Alwan 👋
 
+![Muhamad Alwan](/banner-github.png)
+
+
 ### 💻 About Me
 I’m a **Freelance Frontend Developer & Web Developer** passionate about creating modern, responsive, and user-friendly websites.  
 With a strong focus on clean code, performance, and design, I enjoy turning ideas into digital experiences that are both functional and aesthetic.
